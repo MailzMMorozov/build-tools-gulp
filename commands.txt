@@ -1,0 +1,5 @@
+npm i –g yo
+npm i generator-gulp-angular
+mkdir gulp-angular
+cd gulp-angular
+yo gulp-angular
